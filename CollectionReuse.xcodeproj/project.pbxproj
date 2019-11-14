@@ -13,6 +13,7 @@
 		5621EFC2237D15A4007F5154 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5621EFC0237D15A4007F5154 /* Main.storyboard */; };
 		5621EFC4237D15A5007F5154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5621EFC3237D15A5007F5154 /* Assets.xcassets */; };
 		5621EFC7237D15A5007F5154 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5621EFC5237D15A5007F5154 /* LaunchScreen.storyboard */; };
+		5621EFCF237D15F9007F5154 /* CustomCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5621EFCE237D15F9007F5154 /* CustomCollectionReusableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5621EFC3237D15A5007F5154 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5621EFC6237D15A5007F5154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5621EFC8237D15A5007F5154 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5621EFCE237D15F9007F5154 /* CustomCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionReusableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5621EFBA237D15A4007F5154 /* AppDelegate.swift */,
 				5621EFBC237D15A4007F5154 /* SceneDelegate.swift */,
 				5621EFBE237D15A4007F5154 /* ViewController.swift */,
+				5621EFCE237D15F9007F5154 /* CustomCollectionReusableView.swift */,
 				5621EFC0237D15A4007F5154 /* Main.storyboard */,
 				5621EFC3237D15A5007F5154 /* Assets.xcassets */,
 				5621EFC5237D15A5007F5154 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				5621EFBF237D15A4007F5154 /* ViewController.swift in Sources */,
 				5621EFBB237D15A4007F5154 /* AppDelegate.swift in Sources */,
+				5621EFCF237D15F9007F5154 /* CustomCollectionReusableView.swift in Sources */,
 				5621EFBD237D15A4007F5154 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
